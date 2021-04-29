@@ -1,0 +1,9 @@
+name: EmoteChat
+author: Hazim
+version: 1.0
+main: me.Hazim.io.Main
+description: For Chat emotes!
+
+commands:
+  emojis:
+    aliases: [emoji, emotes, emote]

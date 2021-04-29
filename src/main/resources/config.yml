@@ -1,0 +1,10 @@
+# Thanks For downloading Chatemojis <3
+# Feel free to support me by rating 5 Star :)
+
+#Configuration
+
+# This is the rank which has access to using the emojis so it will show "Available to (rank):
+rankwithemojiacces: "&6MVP&c++&6"
+
+# The Color of the chat after a player uses an emoji
+afteremojichatcolor: "&f"
