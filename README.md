@@ -5,4 +5,4 @@ A plugin where you can use ingame emojis like hypixel
 https://www.spigotmc.org/resources/emotechat.91851/
 
 # Support
-Hazim#3260 on discord
+Hazim#3252 on discord
